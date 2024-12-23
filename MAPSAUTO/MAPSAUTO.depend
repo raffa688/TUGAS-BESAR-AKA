@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734935618 source:d:\code\tugas struktur data\mod 1\mapsauto\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<unordered_map>
+	<chrono>
+	<cstdlib>
+	<ctime>
+
